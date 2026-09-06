@@ -31,6 +31,10 @@ Install the PyTorch build that matches your CUDA version if the default `pip ins
 
 ## Data Preparation
 
+Download the processed datasets and model weights from Hugging Face:
+
+[https://huggingface.co/datasets/shihpolee/ESTANet_datasets](https://huggingface.co/datasets/shihpolee/ESTANet_datasets)
+
 Put the processed datasets under `data/`:
 
 ```text
